@@ -8,5 +8,3 @@ Collection of all plotting code utilized in homework project 2 that were generat
 3. HA2_ThK_reproduction.ipynb: Updated Th-K, PE-Th/K mineral-indicator plots
    
 4. HA2_interpretation.ipynb: Preliminary inversion, porosity/core comparisons, and initial Thomas-Stieber diagnostics
-
-5. 
